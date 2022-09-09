@@ -41,6 +41,10 @@
     * [Developing Cloud Native Applications](https://www.coursera.org/account/accomplishments/verify/43CPCSZNPGKS)
     
     * [Developing Cloud Apps with Node.js and React](https://www.coursera.org/account/accomplishments/verify/V9G72ZH2JAYQ)
+
+    * [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/NWMCM6Z89559)
+
+    * [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/account/accomplishments/verify/T7DZBPDSRABK)
     
 * Others
     
