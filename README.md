@@ -42,10 +42,12 @@
     
     * [Developing Cloud Apps with Node.js and React](https://www.coursera.org/account/accomplishments/verify/V9G72ZH2JAYQ)
 
+    * [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/account/accomplishments/verify/T7DZBPDSRABK)
+
     * [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/NWMCM6Z89559)
 
-    * [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/account/accomplishments/verify/T7DZBPDSRABK)
-    
+    * [Python Project for AI & Application Development](https://www.coursera.org/account/accomplishments/verify/TFR4XENH54G2)    
+
 * Others
     
     * [Getting Started with Azure DevOps Boards](https://www.coursera.org/account/accomplishments/verify/JX43H8YUVEJU)
