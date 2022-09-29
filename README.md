@@ -29,6 +29,8 @@
     * [Using Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/verify/DVPCQBQJ9K3N)
     
     * [Automating Real-World Tasks with Python](https://www.coursera.org/account/accomplishments/verify/RBB4NDUD2DPM)
+    
+* [Cloud Application Development Foundations](https://www.coursera.org/account/accomplishments/specialization/JXK7AFV7J7LN)
 
 * IBM Full Stack Developer (doing)
     
