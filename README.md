@@ -50,7 +50,9 @@
 
     * [Python Project for AI & Application Development](https://www.coursera.org/account/accomplishments/verify/TFR4XENH54G2)
 
-    * [Application Development using Microservices and Serverless](https://www.coursera.org/account/accomplishments/verify/F88RPXAT538E)    
+    * [Application Development using Microservices and Serverless](https://www.coursera.org/account/accomplishments/verify/F88RPXAT538E)
+    
+    * [Developing Applications with SQL, Databases, and Django](https://www.coursera.org/account/accomplishments/verify/37WT6Y9RLEBD)
 
 * Others
     
