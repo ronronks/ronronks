@@ -53,6 +53,12 @@
     * [Application Development using Microservices and Serverless](https://www.coursera.org/account/accomplishments/verify/F88RPXAT538E)
     
     * [Developing Applications with SQL, Databases, and Django](https://www.coursera.org/account/accomplishments/verify/37WT6Y9RLEBD)
+    
+    * [Full Stack Cloud Development Capstone Project]()
+    
+    * [Full Stack Software Developer Assessment](https://www.coursera.org/account/accomplishments/verify/QBFNWTBEGG5F)
+    
+    
 
 * Others
     
