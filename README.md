@@ -32,7 +32,7 @@
     
 * [Cloud Application Development Foundations](https://www.coursera.org/account/accomplishments/specialization/JXK7AFV7J7LN)
 
-* [IBM Full Stack Developer] (https://www.coursera.org/account/accomplishments/specialization/certificate/N4JWGY5KKYWD)
+* [IBM Full Stack Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/N4JWGY5KKYWD)
     
     * [Introduction to Cloud Computing](https://www.coursera.org/account/accomplishments/verify/LFC9U2D97FRX)
 
