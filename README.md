@@ -1,5 +1,5 @@
 
-### :man_technologist: About Me :
+
 
 ![Metrics](./github-metrics.svg)
 
