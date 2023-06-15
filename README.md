@@ -1,15 +1,7 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: I’m a computer engeneering student trying to learn new skills every day.
-
-- :sparkling_heart: I like backend, system architecture, livestreaming servers (RTMP) and crossplatform app building (Flutter).
-
-- :sparkles: Some of tools and frameworks i use frequently: [Nginx](https://www.nginx.com/), [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [ffmpeg](https://ffmpeg.org/), [Postgres](https://www.postgresql.org/), [MySQL](https://www.mysql.com/), [Django](https://www.djangoproject.com/), [NodeJs](https://nodejs.org/), [Flask](https://flask.palletsprojects.com/), [FastApi](https://fastapi.tiangolo.com/), [Flutter](https://flutter.dev/).
-
-- :seedling: I’m currently working on some cloud native platforms i'd like to build.
-
-- :zap: In my free time... 
+![Metrics](./github-metrics.svg)
 
 
 ---
