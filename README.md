@@ -24,6 +24,12 @@
     
 * [Cloud Application Development Foundations](https://www.coursera.org/account/accomplishments/specialization/JXK7AFV7J7LN)
 
+* [Stanford University DeepLearning.Ai - Machine Learning](https://www.coursera.org/account/accomplishments/specialization/SU6GNWJ9JTBR)
+    * [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/W3WZHBVQX99W)
+    * [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/DH99UZVZ535M)
+    * [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/verify/WZWTA2Q2SATC)
+
+
 * [IBM Full Stack Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/N4JWGY5KKYWD)
     
     * [Introduction to Cloud Computing](https://www.coursera.org/account/accomplishments/verify/LFC9U2D97FRX)
